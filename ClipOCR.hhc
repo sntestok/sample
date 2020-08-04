@@ -1,0 +1,54 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800002">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="はじめに">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="はじめに">
+      <param name="Local" value="A000.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="もくじ">
+      <param name="Local" value="A001.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="起動と終了">
+      <param name="Local" value="A002.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="クリップボードOCRの概要">
+      <param name="Local" value="A003.htm">
+    </object>
+  </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="文字認識">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="画面キャプチャー認識">
+      <param name="Local" value="B000.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="クリップボード画像認識">
+      <param name="Local" value="B001.htm">
+    </object>
+  </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="出力">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="出力設定">
+      <param name="Local" value="C000.htm">
+    </object>
+  </ul>
+</ul>
+</html>

@@ -1,0 +1,327 @@
+﻿P { 
+   font-size:10pt; 
+   margin-top:0pt; 
+   margin-bottom:0pt; 
+   line-height:150%;  }
+LI.P { 
+      font-size:10pt; 
+      line-height:150%;  }
+H1 { 
+    color:#ffffff; 
+    line-height:150%; 
+    background-color:#526dd6; 
+    font-size:12pt; 
+    margin-bottom:10pt; 
+    margin-left:0pt;  }
+LI.H1 { 
+       color:#ffffff; 
+       line-height:150%; 
+       font-size:12pt;  }
+H2 { 
+    margin-bottom:5pt; 
+    margin-top:14pt; 
+    font-weight:bold; 
+    font-style:normal; 
+    font-size:10pt; 
+    background-color:#babaff; 
+    color:#000080;  }
+LI.H2 { 
+       font-weight:bold; 
+       font-style:normal; 
+       font-size:10pt; 
+       color:#000080;  }
+P.Style1 { 
+          margin-top:10pt; 
+          margin-bottom:4pt; 
+          margin-left:12px;  }
+LI.P-Style1 {  }
+P.Style2 { 
+          text-indent:-14px; 
+          margin-left:50px;  }
+LI.P-Style2 { 
+             text-indent:-14px;  }
+P.Style3 { 
+          text-indent:-17px; 
+          margin-left:73px;  }
+LI.P-Style3 { 
+             text-indent:-17px;  }
+P.Style4 { 
+          text-indent:-11px; 
+          margin-left:63px;  }
+LI.P-Style4 { 
+             text-indent:-11px;  }
+P.Style5 { 
+          font-weight:bold; 
+          vertical-align:Sub;  }
+LI.P-Style5 { 
+             font-weight:bold;  }
+P.Style6 { 
+          text-indent:-11px; 
+          margin-left:17px;  }
+LI.P-Style6 { 
+             text-indent:-11px;  }
+P.Style7 { 
+          margin-left:50px;  }
+LI.P-Style7 {  }
+P.Style8 { 
+          text-indent:-14px; 
+          margin-left:94px; 
+          font-weight:normal; 
+          font-style:normal; 
+          color:#008000;  }
+LI.P-Style8 { 
+             text-indent:-14px; 
+             font-weight:normal; 
+             font-style:normal; 
+             color:#008000;  }
+P.Style9 { 
+          margin-left:109px;  }
+LI.P-Style9 {  }
+P.Style10 { 
+           text-indent:-17px; 
+           margin-left:81px;  }
+LI.P-Style10 { 
+              text-indent:-17px;  }
+P.Style11 { 
+           text-indent:-21px; 
+           margin-left:73px;  }
+LI.P-Style11 { 
+              text-indent:-21px;  }
+P.Style12 { 
+           text-indent:-17px; 
+           margin-left:90px;  }
+LI.P-Style12 { 
+              text-indent:-17px;  }
+P.Style13 { 
+           margin-left:89px;  }
+LI.P-Style13 {  }
+P.Style14 { 
+           color:#3165ff; 
+           font-weight:bold; 
+           margin-left:89px;  }
+LI.P-Style14 { 
+              color:#3165ff; 
+              font-weight:bold;  }
+P.Style15 { 
+           margin-left:103px;  }
+LI.P-Style15 {  }
+P.Style16 { 
+           margin-left:108px;  }
+LI.P-Style16 {  }
+H3 { 
+    font-size:10pt;  }
+LI.H3 { 
+       font-size:10pt;  }
+P.Style17 { 
+           margin-left:36px;  }
+LI.P-Style17 {  }
+P.Style18 { 
+           color:#63659c; 
+           font-weight:bold; 
+           margin-left:52px;  }
+LI.P-Style18 { 
+              color:#63659c; 
+              font-weight:bold;  }
+P.Style19 { 
+           color:#3165ff; 
+           font-weight:bold; 
+           margin-top:9pt; 
+           text-indent:-14px; 
+           margin-left:14px;  }
+LI.P-Style19 { 
+              color:#3165ff; 
+              font-weight:bold; 
+              text-indent:-14px;  }
+P.Style20 { 
+           margin-left:14px;  }
+LI.P-Style20 {  }
+P.Style21 { 
+           color:#3165ff; 
+           font-weight:bold; 
+           margin-top:9pt; 
+           text-indent:-14px; 
+           margin-left:64px;  }
+LI.P-Style21 { 
+              color:#3165ff; 
+              font-weight:bold; 
+              text-indent:-14px;  }
+P.Style22 { 
+           text-indent:-31px; 
+           margin-left:81px;  }
+LI.P-Style22 { 
+              text-indent:-31px;  }
+P.Style23 { 
+           text-indent:-11px; 
+           margin-left:92px;  }
+LI.P-Style23 { 
+              text-indent:-11px;  }
+P.Style24 { 
+           text-indent:-17px; 
+           margin-left:99px;  }
+LI.P-Style24 { 
+              text-indent:-17px;  }
+P.Style25 { 
+           text-indent:-11px; 
+           margin-left:110px;  }
+LI.P-Style25 { 
+              text-indent:-11px;  }
+P.Style26 { 
+           margin-left:63px;  }
+LI.P-Style26 {  }
+P.Style27 { 
+           margin-left:68px; 
+           font-weight:bold;  }
+LI.P-Style27 { 
+              font-weight:bold;  }
+P.Style28 { 
+           margin-left:52px; 
+           font-weight:bold;  }
+LI.P-Style28 { 
+              font-weight:bold;  }
+P.Style29 { 
+           text-indent:-14px; 
+           margin-left:82px;  }
+LI.P-Style29 { 
+              text-indent:-14px;  }
+P.Style30 { 
+           margin-left:82px;  }
+LI.P-Style30 {  }
+H4 { 
+    font-size:10pt; 
+    margin-bottom:5pt; 
+    margin-left:0px;  }
+LI.H4 { 
+       font-size:10pt;  }
+P.Style31 { 
+           text-indent:-20px; 
+           margin-left:37px;  }
+LI.P-Style31 { 
+              text-indent:-20px;  }
+P.Style32 { 
+           margin-left:17px;  }
+LI.P-Style32 {  }
+P.Style33 { 
+           margin-left:110px;  }
+LI.P-Style33 {  }
+P.Style34 { 
+           text-indent:-60px; 
+           margin-left:60px;  }
+LI.P-Style34 { 
+              text-indent:-60px;  }
+P.Style35 { 
+           font-weight:bold; 
+           text-indent:-14px; 
+           margin-left:64px;  }
+LI.P-Style35 { 
+              font-weight:bold; 
+              text-indent:-14px;  }
+P.Style36 { 
+           margin-top:10pt; 
+           margin-bottom:4pt; 
+           margin-left:60px;  }
+LI.P-Style36 {  }
+H5 { 
+    font-size:10pt; 
+    margin-left:52px; 
+    margin-top:6pt; 
+    margin-bottom:6pt;  }
+LI.H5 { 
+       font-size:10pt;  }
+P.Style37 { 
+           text-indent:-14px; 
+           margin-left:98px;  }
+LI.P-Style37 { 
+              text-indent:-14px;  }
+P.Style38 { 
+           margin-left:52px;  }
+LI.P-Style38 {  }
+P.Style39 { 
+           text-indent:-17px; 
+           margin-left:45px;  }
+LI.P-Style39 { 
+              text-indent:-17px;  }
+P.Style40 { 
+           text-indent:-11px; 
+           margin-left:110px; 
+           font-weight:bold;  }
+LI.P-Style40 { 
+              text-indent:-11px; 
+              font-weight:bold;  }
+P.Style41 { 
+           text-indent:-20px; 
+           margin-left:74px; 
+           margin-top:4pt;  }
+LI.P-Style41 { 
+              text-indent:-20px;  }
+P.Style42 { 
+           text-indent:-17px; 
+           margin-left:145px;  }
+LI.P-Style42 { 
+              text-indent:-17px;  }
+H6 { 
+    margin-bottom:5pt; 
+    font-size:12pt; 
+    color:#63659c;  }
+LI.H6 { 
+       font-size:12pt; 
+       color:#63659c;  }
+P.Style43 {  }
+LI.P-Style43 {  }
+P.Style44 { 
+           text-indent:-17px; 
+           margin-left:31px; 
+           margin-top:5pt;  }
+LI.P-Style44 { 
+              text-indent:-17px;  }
+P.Style45 {  }
+LI.P-Style45 {  }
+P.Y001 { 
+        margin-bottom:6pt;  }
+LI.P-Y001 {  }
+P.Y002 {  }
+LI.P-Y002 {  }
+P.Style46 { 
+           text-indent:-11px; 
+           margin-left:127px;  }
+LI.P-Style46 { 
+              text-indent:-11px;  }
+P.Style48 { 
+           margin-left:92px;  }
+LI.P-Style48 {  }
+P.Z001 { 
+        text-indent:-43px; 
+        margin-left:79px;  }
+LI.P-Z001 { 
+           text-indent:-43px;  }
+P.Style47 { 
+           text-indent:-14px; 
+           margin-left:157px;  }
+LI.P-Style47 { 
+              text-indent:-14px;  }
+P.Style49 { 
+           text-indent:-11px; 
+           margin-left:166px;  }
+LI.P-Style49 { 
+              text-indent:-11px;  }
+P.nyumon-step { 
+               text-indent:-92px; 
+               margin-left:106px; 
+               font-weight:bold; 
+               color:#3165ff;  }
+LI.P-nyumon-step { 
+                  text-indent:-92px; 
+                  font-weight:bold; 
+                  color:#3165ff;  }
+P.nyumon-step2 { 
+                margin-left:70pt;  }
+LI.P-nyumon-step2 {  }
+P.baai { 
+        font-weight:bold; 
+        font-style:normal; 
+        color:#000080; 
+        margin-top:10pt; 
+        background-color:Transparent;  }
+LI.P-baai { 
+           font-weight:bold; 
+           font-style:normal; 
+           color:#000080;  }
